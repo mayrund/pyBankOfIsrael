@@ -2,7 +2,7 @@
 pyBankOfIsrael is a python module for downloading currency rates from the Bank of Israel
 
 ## Requirements
-PythonWeatherCompare requires the following:
+pyBankOfIsrael requires the following:
   - Python 2.7.x interupter (http://www.python.org/getit/)
   - Internet connection
 
@@ -13,4 +13,4 @@ The pyBankOfIsrael module depends on the following python packages, some of thes
   - BeautifulSoup
 
 ## Usage
-
+  - to be documented..
